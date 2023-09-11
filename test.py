@@ -2,33 +2,11 @@ import sys
 
 print("Hello World!!!")
 
+# 这是一个注释
 
-print("1")  
+# 注释哦
+print("1")
 print("2")
 print("3")
-
-print("new test")
-
-
-
-
-
-
 print("4")
 print("5")
-print("6")
-print("7")
-print("8")
-print("9")
-print("10")   
-print("11")  
-
-
-
-
-
-
-
-
-
-
