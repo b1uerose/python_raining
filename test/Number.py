@@ -17,6 +17,8 @@ print(13 % 5)
 # n次方
 print(100 ** 2)
 
+print(round(3.1415, 3))
+
 # ==========字符串============
 
 print("\"hello world!\"")
@@ -52,3 +54,4 @@ print(python[7:])
 
 # 字符串长度
 print(len(python))
+
