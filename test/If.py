@@ -13,3 +13,8 @@ elif num == 0:
 else:
     print("great job!!")
 
+if num != 100:
+    print(f"输入的金额为{num},不等于100")
+
+if 10 < num < 20:
+    print(f"输入的金额介于10和20")

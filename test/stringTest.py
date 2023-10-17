@@ -30,7 +30,6 @@ weight = 60
 print("my age is %s, and my weight is %fKg" % (age, weight))
 
 # 4、数值的宽度和精度
-
 number_width = 10
 print("数值的宽度设置为5,10的显示结果为%5d" % number_width)
 
@@ -49,4 +48,16 @@ print(f"my name is {name}, and my age is {round(age, 2)}")
 
 day = 7
 print(f"经过{day}的增长后，股票价格为{round(19.99*(1.2**day), 2) }")
+
+
+# 制表符，多行字符串对齐
+print("xiao\tjin")
+print("sun\t\tlu")
+
+
+str = "万过薪月，员序程马黑来，nohtyP学"
+
+print(str[-10:-15:-1])
+print(print(str[::-1][9:14]))
+
 

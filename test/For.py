@@ -16,3 +16,10 @@ print(status_collection.items())
 
 for user, status in status_collection.items():
     print("%s is %s" % (user, status))
+
+# for循环打印99乘法表
+
+for i in range(1, 10):
+    for j in range(1, i + 1):
+        print(f"{j} x {i} = {i * j}\t", end="")
+    print()

@@ -18,3 +18,4 @@ name = "xiaojl"
 name_type = type(name)
 print(name_type)
 
+print(type(name_type))
